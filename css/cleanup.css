@@ -9,9 +9,10 @@ body #wall #tag-2 {
 }
 
 
- div#wall div#tag-3.slick {
+ #wall div#tag-3.slick {
   display: none;
 }
+
 
 
 #wall .parent #tag-5 {
