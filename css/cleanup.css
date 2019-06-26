@@ -9,15 +9,15 @@ body #wall #tag-2 {
 }
 
 
- div#wall div#tag-3.slick {
+ #wall #tag-3.slick {
   display: none;
 }
 
-#wall div.parent #tag-4 {
+#wall .parent #tag-4 {
   display: none;
 }
 
-div#wall div.parent #tag-5.slick {
+#wall .parent #tag-5.slick {
   display: none;
 }
 
